@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NumberComponent()
+comment1.params=frameSize0\ num10\ num20
+comment1.target=NumberComponent(int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g2
+comment3.target=void\ drawNumbers(java.awt.Graphics2D)
+numComments=4

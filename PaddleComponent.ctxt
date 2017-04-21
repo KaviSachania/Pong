@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PaddleComponent()
+comment1.params=frameSize\ player0
+comment1.target=PaddleComponent(int,\ int)
+comment10.params=e
+comment10.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment11.params=e
+comment11.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g2
+comment3.target=void\ drawPaddle(java.awt.Graphics2D)
+comment4.params=
+comment4.target=java.awt.Rectangle\ getPaddle1()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getPaddle2()
+comment6.params=
+comment6.target=java.util.ArrayList\ getKeys()
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=
+comment8.target=void\ movePaddle()
+comment9.params=e
+comment9.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=12

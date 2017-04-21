@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BallComponent()
+comment1.params=frameSize
+comment1.target=BallComponent(int)
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g2
+comment3.target=void\ drawBall(java.awt.Graphics2D)
+comment4.params=
+comment4.target=void\ checkBounce()
+comment5.params=
+comment5.target=void\ bounceWall()
+comment6.params=
+comment6.target=void\ bouncePaddle()
+comment7.params=
+comment7.target=boolean\ getPoint()
+comment8.params=
+comment8.target=int\ whosePoint()
+comment9.params=
+comment9.target=int\ getCount()
+numComments=11

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BorderComponent()
+comment1.params=frameSize0
+comment1.target=BorderComponent(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=num0
+comment3.target=java.awt.geom.Line2D\ getBorder(int)
+numComments=4
